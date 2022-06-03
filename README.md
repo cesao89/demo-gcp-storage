@@ -3,10 +3,10 @@
 Projeto desenvolvido para apresentar o upload de arquivos utilizando **Cloud Function** e **Storage** do Google.
 <br/><br/>
 
-## Pré Requisitos
-- NodeJS 16
-- GCP Account
-- Firebase Tools
+## 📓 Pré Requisitos
+- Linguagem **NodeJS 16**
+- Conta no **Google Cloud Plataform**
+- Pacote do **Firebase Tools**
 
 ## ⚙ Configuração
 1. Adicione o **PROJECT_ID** do seu projeto GCP no arquivo `./.firebaserc:3`
